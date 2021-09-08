@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\flavi\Documents\BootcampCapgemini\.metadata\.plugins\org.eclipse.jdt.core
+2375924588.index
+392132652.index

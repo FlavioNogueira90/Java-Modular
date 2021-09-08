@@ -1,0 +1,6 @@
+2021-09-02 23:52:05,378 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-03 00:03:46,737 [Worker-8: Fetching remote refs from git@github.com:FlavioNogueira90/CursoDio_DominandoIDEsJava.git] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2021-09-03 00:03:46,950 [Worker-8: Fetching remote refs from git@github.com:FlavioNogueira90/CursoDio_DominandoIDEsJava.git] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory using Nio2ServiceFactoryFactory
+2021-09-03 00:28:15,423 [Worker-6: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\flavi\Documents\BootcampCapgemini\primeiro projeto\.git]
+2021-09-03 00:34:58,005 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-03 00:45:44,888 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

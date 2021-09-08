@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="FlavioNogueira &lt;flavionogueira20@gmail.com&gt;"/>
+		<item value="FlavioNogueira90 &lt;64814547+FlavioNogueira90@users.noreply.github.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="FlavioNogueira &lt;flavionogueira20@gmail.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/FlavioNogueira90/CursoDio_DominandoIDEsJava.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\flavi\Documents\BootcampCapgemini\primeiro projeto\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\flavi\Documents\BootcampCapgemini\CursoDio_DominandoIDEsJava\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+</section>
